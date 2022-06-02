@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class BabsConfig(AppConfig):
+class BabsappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'babs'
+    name = 'babsapp'
